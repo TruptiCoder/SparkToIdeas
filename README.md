@@ -110,12 +110,6 @@ nltk
 tkinter (comes pre-installed with Python)
 ```
 
-> You can create a `requirements.txt` using:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ---
 
 ## 📚 Future Enhancements
